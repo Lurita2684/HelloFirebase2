@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "547713783994",
+    "firebase_url": "https://recetario-vegano.firebaseio.com",
+    "project_id": "recetario-vegano",
+    "storage_bucket": "recetario-vegano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547713783994:android:aedc53c6d99d60ff",
+        "android_client_info": {
+          "package_name": "com.example.hellofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547713783994-9dlns41dpe10j5sc7c95tcc0eir3mer4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellofirebase",
+            "certificate_hash": "39788315ed513f9c8a0ae8be5c5552b7abe0e560"
+          }
+        },
+        {
+          "client_id": "547713783994-kdqclr86duasmmefl3nn60fehjo5thb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_WwozwtqOHZLexCC3VAnbQZUbXc5lJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547713783994-kdqclr86duasmmefl3nn60fehjo5thb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547713783994:android:f9ae50ed62b51e01",
+        "android_client_info": {
+          "package_name": "com.example.hellofirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547713783994-t7pf2t7j7405k93a803e8ag11cvd8jtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellofirebase2",
+            "certificate_hash": "39788315ed513f9c8a0ae8be5c5552b7abe0e560"
+          }
+        },
+        {
+          "client_id": "547713783994-kdqclr86duasmmefl3nn60fehjo5thb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_WwozwtqOHZLexCC3VAnbQZUbXc5lJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547713783994-kdqclr86duasmmefl3nn60fehjo5thb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
